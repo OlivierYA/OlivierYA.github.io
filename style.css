@@ -1,0 +1,10 @@
+h1 {background-color: red;
+color: white;
+border: 2px solid black;}
+
+h1, h2,h3, h4 {font-weight: bold;
+text-align: center;
+text-decoration: underline;
+text-transform: uppercase;}
+
+li {font-style: italic;}
